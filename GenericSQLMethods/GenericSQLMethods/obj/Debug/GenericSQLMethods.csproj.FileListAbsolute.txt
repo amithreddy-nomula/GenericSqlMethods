@@ -1,0 +1,6 @@
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\bin\Debug\GenericSQLMethods.exe.config
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\bin\Debug\GenericSQLMethods.exe
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\bin\Debug\GenericSQLMethods.pdb
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\obj\Debug\GenericSQLMethods.csprojResolveAssemblyReference.cache
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\obj\Debug\GenericSQLMethods.exe
+c:\users\amith.nomula\documents\visual studio 2015\Projects\GenericSQLMethods\GenericSQLMethods\obj\Debug\GenericSQLMethods.pdb
